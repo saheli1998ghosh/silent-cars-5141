@@ -1,7 +1,148 @@
 {
-    "products":[ {
-        
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
     }
-
-    ]
+  ],
+  "TOPCATEGORIES": [
+    {
+      "id": 1,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/home/flyer-lg.jpg"
+    },
+    {
+      "id": 2,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/landing/battery/diehard/HP-Category-Grid-DieHard-Gold-95x95.jpg"
+    },
+    {
+      "id": 3,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/home/TC-Brakes.jpg"
+    },
+    {
+      "id": 4,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/home/TC-FRAM-Oil-and-Filter.jpg"
+    },
+    {
+      "id": 5,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/home/hm-topcat-wipers.jpg"
+    },
+    {
+      "id": 6,
+      "title": "xdas",
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/2018/07/brake-rotors.jpg"
+    }
+  ],
+  "Template": [
+    {
+      "id": 1,
+      "title": "Free In Store Services",
+      "description": "Personalized care including battery testing and installation, oil recycling, wiper installation and more! "
+    },
+    {
+      "id": 2,
+      "title": "Advance Same Day",
+      "description": "Free in store or curbside pickup. Plus delivery available in select markets."
+    },
+    {
+      "id": 3,
+      "title": "Speed Perks",
+      "description": "Get points for every purchase. Redeem points for rewards."
+    },
+    {
+      "id": 4,
+      "title": "Hiring Now: In Store & Corporate",
+      "description": "Be seen, heard & valued. Careers start & thrive here. Apply now"
+    },
+    {
+      "id": 5,
+      "title": "Rebates and Sweepstakes",
+      "description": "Find out about rebate and sweepstake offers, submit your rebate online and more!"
+    },
+    {
+      "id": 6,
+      "title": "Need a Certified Technician?",
+      "description": "We have approved professionals to repair any problem you have."
+    }
+  ],
+  "UNDERTHEHOODSAVINGS": [
+    {
+      "id": 1,
+      "image": "https://shop.advanceautoparts.com/projects/oil-change?campsource=homepage&campmedium=underthehood1&campcontent=fram",
+      "title": "FRAM Oil Change Bundles",
+      "description": "We Starting at $25.99. Add a FRAM Drive Air or Cabin Air Filter: $8. approved professionals to repair any problem you have."
+    },
+    {
+      "id": 2,
+      "image": "https://shop.advanceautoparts.com/p/lucas-oil-products-fuel-treatment-ucl-injector-cleaner-5.25-oz.-10020/7080006-P?campsource=homepage&campmedium=underthehood2&campcontent=lucasfuel",
+      "title": " Hot Deal: 2 For $11",
+      "description": " Increase your miles per gallon with Lucas Fuel Treatment. "
+    },
+    {
+      "id": 3,
+      "image": "https://shop.advanceautoparts.com/web/SearchResults?searchTerm=10142281%20OR%2011163575%20OR%2011448922%20OR%2011970152%20OR%2012105346%20OR%2012105347%20OR%2012261361%20OR%2012571451%20OR%207030006%20OR%207030016%20OR%207030035%20OR%207030177%20OR%207040512%20OR%207041217%20OR%207050038%20OR%207050585%20OR%207110151%20OR%207130076%20OR%207600009%20OR%2089017065%20OR%2010048746%20OR%2011149809%20OR%2011796545%20OR%2011906733%20OR%2012106384%20OR%2012352868%20OR%2012527251%20OR%2012566915%20OR%2050022821%20OR%207030014%20OR%207050042%20OR%207050043%20OR%207110095%20OR%207110145%20OR%207110157%20OR%207130072%20OR%207570012%20OR%207600002%20OR%2010139935%20OR%2010139936%20OR%2010611383%20OR%2011779142%20OR%2011964795%20OR%2011965026%20OR%207030048%20OR%207041098%20OR%207110006%20OR%207110056%20OR%207110124%20OR%207110128%20OR%207110159&campsource=homepage&campmedium=underthehood3&campcontent=2for12spring-cleaning&storeId=10151&catalogId=10051&langId=-1",
+      "title": " 2 For $12 ",
+      "description": "Spring Cleaning. Mix & Match."
+    },
+    {
+      "id": 4,
+      "image": "https://shop.advanceautoparts.com/web/SearchResults?searchTerm=11058098%20OR%2011978364%20OR%2011058108%20OR%2011664412%20OR%2011664411%20OR%2011058195%20OR%2010838402%20OR%2011741320%20OR%2011664564%20OR%2011664565%20OR%2011400049%20OR%2011400048%20OR%2011400006%20OR%2011664413%20OR%2015650470%20OR%2011741282%20OR%2015650270%20OR%2019650200%20OR%2011058187%20OR%2011058106%20OR%2011664562%20OR%2011741278%20OR%2011741276%20OR%2011289303%20OR%2011664409%20OR%2011741280%20OR%2011058194%20OR%2011058190%20OR%2011664566%20OR%2011400007%20OR%2011058203%20OR%2011400047%20OR%2011741277%20OR%2011664561%20OR%2050018538%20OR%2011058102%20OR%2011664410%20OR%2011664563%20OR%2015650269&campsource=homepage&campmedium=underthehood4&campcontent=acdelco&storeId=10151&catalogId=10051&langId=-1",
+      "title": "ACDelco: $32 Gift Card",
+      "description": " By mail when you buy 8 ACDelco Professional Iridium Spark Plugs."
+    }
+  ],
+  "TOPSELLERS":[
+    {
+      "id": 1,
+      "image":"https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage/N3313/thumb/12452851_slh_23452635_pri_thmb.jpg",
+      "price": "$4.49",
+      "title": "Splash",
+      "description": "Splash -20F Blue"
+    },
+    {
+      "id": 2,
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage/N3222/thumb/7060386_wes_w20014_pri_thmb.jpg",
+      "price": "$4.49",
+      "title": "Carquest Wearever",
+      "description": "DOT 3 Brake Fluid: Synthetic Formulation, For ABS, Disc, And Drum Brake Systems, 32 oz"
+    },
+    {
+      "id": 3,
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage/N3221/thumb/7060046_wes_w7341_pri_thmb.jpg",
+      "price": "$4.49",
+      "title": "Carquest Wearever",
+      "description": "Brake Parts Cleaner: Non-Chlorinated, Low VOC, Removes Brake Dust, Grease, And Grime, 14 oz."
+    },
+    {
+      "id": 4,
+      "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage/N3233/thumb/7080006_lco_10020_pri_thmb.jpg",
+      "price": "$4.49",
+      "title": "Lucas Oil Products",
+      "description": "Upper Cylinder Lube & Injector Cleaner Fuel Treatment: Gas Or Diesel, Increases MPG, 5.25 oz"
+    }
+  ]
 }
